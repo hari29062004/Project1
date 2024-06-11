@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Project 1</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="welcome">Welcome the challenges. Look for the opportunities in every situation to learn and grow in wisdom</string>
+    <string name="briantracy">Brian Tracy</string>
+    <string name="get_started">Get Started</string>
+    <string name="image1">image1</string>
+    <string name="second_screen">Second Screen</string>
+
+</resources>
